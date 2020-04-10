@@ -5,3 +5,7 @@ bqplot
 random
 IPython
 ipywidgets
+ipympl
+ipyvolume
+scipy
+voila
