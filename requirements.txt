@@ -1,0 +1,7 @@
+numpy
+pandas
+math
+bqplot
+random
+IPython
+ipywidgets
