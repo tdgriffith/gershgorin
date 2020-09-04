@@ -3,9 +3,9 @@ pandas
 math
 bqplot
 random
+scipy
 IPython
 ipywidgets
 ipympl
 ipyvolume
-scipy
 voila
